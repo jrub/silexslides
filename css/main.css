@@ -45,12 +45,13 @@ h1 {
 
 h2 {
   font-family: 'Nunito', Arial, sans-serif;
-	margin-bottom: 50px;
+	margin-bottom: 10px;
   text-shadow: 2px 2px 5px #aaa;
 }
 
 h3 {
 	font-size: 2em;
+	text-align: center;
 }
 
 .minilist li {
