@@ -19,7 +19,7 @@ $app->register(new Silex\Extension\HttpCacheExtension(), array(
 
 $app->register(new Silex\Extension\TwigExtension(), array(
     'twig.path'       => __DIR__.'/views',
-    'twig.class_path' => __DIR__.'/vendor/twig/lib',
+    'twig.class_path' => 'phar://'.__DIR__.'/twig.phar/lib',
 ));
 
 $app->get('/', function () use ($app){
