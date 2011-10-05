@@ -1,0 +1,16 @@
+## Eso es todo amigos
+###...pero antes, algunas reflexiones
+
+<center>.</center>
+
+<center class="incremental">
+El objetivo de Mink es emular al navegador. No intentes hacer cosas que un navegador no haría. Tendrás quebraderos de cabeza.
+</center>
+
+<center class="incremental">
+El objetivo de Behat es que todo el mundo entienda los tests. No intentes usarlo como una herramienta copy&paste mágica que multiplique tus tests. Tendrás tests frágiles.
+</center>
+
+<center class="incremental">
+El objetivo de un desarrollador debería ser crear software de calidad. No puedes hacer software de calidad sin tests... pero no dejes que alguien que aborrece los tests los escriba.
+</center>

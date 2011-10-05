@@ -1,0 +1,20 @@
+## Mink
+###...define Steps
+<li class="incremental">
+Para hacer requests
+</li>
+<li class="incremental">
+Para interactuar con formularios
+</li>
+<li class="incremental">
+Para tratar con el DOM
+</li>
+<li class="incremental">
+Para examinar respuestas
+</li>
+
+<h4 class="incremental vcenter">
+    behat --definitions
+</br>
+    src/Behat/Mink/Behat/Context/BaseMinkContext.php
+</h4>

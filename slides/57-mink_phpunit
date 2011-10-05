@@ -1,0 +1,16 @@
+## Mink
+###...también con PHPUnit
+
+    <?php
+    
+    require_once 'mink/autoload.php';
+    
+    use Behat\Mink\PHPUnit\TestCase;
+    
+    class MyApplicationTest extends TestCase
+    {
+      public function testSomePage()
+      {
+        $this->getSession()->visit('http://dev.dev/page1.php');
+      }
+    }

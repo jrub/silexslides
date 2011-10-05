@@ -1,0 +1,36 @@
+## Mink
+###¿ ... qué navegadores dices que controla ... ?
+
+<li class="incremental">
+Navegadores "headless":
+</li>
+
+<center class="incremental">
+    Symfony2 test client - simulación de requests
+</center>
+
+<center class="incremental">
+    Goutte - PHP web scraper
+</center>
+
+<center class="incremental">
+    Zombie.js - Node.js power
+</center>
+
+<li class="incremental">
+"Browser Controllers"
+</li>
+
+<center class="incremental">
+Sahi
+</center>
+
+<center class="incremental">
+<strike>Selenium</strike>
+</center>
+
+<center class="incremental">
+Selenium no provee implementación PHP del nuevo API de WebDriver
+</br>
+<a href="http://seleniumhq.org/docs/03_webdriver.html">Selenium 2.0 WebDriver</a>
+</center>

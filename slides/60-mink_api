@@ -1,0 +1,8 @@
+## Mink
+###...uno para todos...
+
+API único para controlar el comportamiento de navegadores
+
+* Cookies, sesiones, cabeceras, auth HTTP
+* Análisis de la página con XPath o selectores CSS
+* Manipulación de la página: formularios, clicks, hover, drag-and-drop...
