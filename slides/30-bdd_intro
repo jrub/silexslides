@@ -1,1 +1,21 @@
-#BDD
+##Behaviour-Driven Development
+###...basado en TDD
+Introducido por [Dan North](http://dannorth.net/introducing-bdd/).
+<li class="incremental">
+Escribe tus tests en un lenguaje natural
+</li>
+<li class="incremental">
+Lo entienden desarrolladores y gente de negocio
+</li>
+<li class="incremental">
+Relaciona lenguaje de negocio y requisitos de código
+</li>
+<li class="incremental">
+Aplícalo a User Stories
+</li>
+<li class="incremental">
+Haz que la descripción del Feature sea el User Story
+</li>
+<li class="incremental">
+Los Scenarios son criterios de aceptación ejecutables
+</li>

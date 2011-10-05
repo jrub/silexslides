@@ -1,0 +1,7 @@
+[DOM](http://www.w3.org/TR/DOM-Level-2-Core/introduction.html)
+
+The Document Object Model (DOM) is an application programming interface (API) for valid HTML and well-formed XML documents. It defines the logical structure of documents and the way a document is accessed and manipulated [...]
+
+With the Document Object Model, programmers can build documents, navigate their structure, and add, modify, or delete elements and content. Anything found in an HTML or XML document can be accessed, changed, deleted, or added using the Document Object Model [...]
+
+As a W3C specification, one important objective for the Document Object Model is to provide a standard programming interface [...]

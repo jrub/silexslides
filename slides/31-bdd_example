@@ -1,0 +1,12 @@
+##Ejemplo
+    Feature: Formulario de contacto
+        Para contactar por email
+        Como visitante
+        Tengo que poder enviar un formulario de contacto
+    
+    Scenario: Éxito en el envío de formulario de contacto
+      Dado que estoy en "/about/contacto"
+      Cuando relleno "Email" con "user@ejemplo.com"
+      Y relleno "Mensaje" con "Le escribo para..."
+      Y presiono "Enviar"
+      Entonces debería ver "Mensaje enviado"

@@ -1,16 +1,16 @@
 ##Test-Driven Development
 ###Desarrollo iterativo
 <p class="incremental">
-* Escribe
+* Escribe el test
 </p>
 <p class="incremental hcenter">
-* FAlla
+* El test falla
 </p>
 <p class="incremental">
-* Codifica
+* Escribe el código
 </p>
 <p class="incremental">
-* Pasa
+* Todos los tests pasan
 </p>
 <p class="incremental">
 * Refactor

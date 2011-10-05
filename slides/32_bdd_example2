@@ -1,0 +1,17 @@
+##Ejemplo
+    Feature: Formulario de contacto
+        BENEFICIO
+        ROL
+        REQUISITO/HISTORIA
+    
+    Scenario: Éxito en el envío de formulario de contacto
+      CONTEXTO
+      EVENTOS
+      RESULTADO
+
+<h3 class="incremental">
+
+
+
+<a href="https://github.com/cucumber/cucumber/wiki/Gherkin">Gherkin</a>
+<h3>
